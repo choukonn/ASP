@@ -31,6 +31,6 @@ ASP開発環境やチュートリアル
 
 ### [ASP](https://www.w3schools.com/asp/asp_introduction.asp)
 
-### [VBScript](http://www-db.deis.unibo.it/courses/TW/DOCS/w3schools/asp/vbscript_default.asp.html)
+### [VBScript](https://docs.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392489(v=msdn.10))
 
-
+### [SQL Server](https://www.sqlshack.com/step-by-step-installation-of-sql-server-2017/)

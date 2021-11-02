@@ -43,16 +43,6 @@ ASP開発環境やチュートリアル
 * 詳細設定
     * 32ビットアプリケーションの有効化（True）
 
-### change default directory
-
-1. インターネットインフォメーションサービス(IIS)マネージャー
-2. BIT-PC**(BIT**)
-    1. サイト
-        * Default Web Site(右クリック)
-        * Webサイトの管理（停止）
-        * Webサイトの管理（詳細設定）
-            * 物理パス（'C:'はアクセス権限問題ので、'd:'は勧め）
-
 ## チュートリアル
 
 ### [ASP](https://www.w3schools.com/asp/asp_introduction.asp)

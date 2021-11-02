@@ -17,6 +17,32 @@ ASP開発環境やチュートリアル
 6. OK
 7. ie ====> localhost(test)
 
+### add new web
+
+> サイト右クリック　=>  ウェブサイト追加：
+* サイト名（任意"ポート-projectName"推薦）
+* 物理パス: local directory
+* ポート（80以外）
+
+> double click your new サイト：
+* ASP (double click)
+    * デバッグプロパティ
+        * ブラウザーへのエラー送信（True）
+    * 動作
+        * 親パスを有効する
+* 適用
+
+> ディレクトリの参照(double click)
+* 有効にする
+
+> 既定のドキュメント
+* 入口ファイル（ex. index.asp）
+
+> アプリケーションプール
+* 右クリック作成した新たなサイト
+* 詳細設定
+    * 32ビットアプリケーションの有効化（True）
+
 ### change default directory
 
 1. インターネットインフォメーションサービス(IIS)マネージャー

@@ -49,4 +49,6 @@ ASP開発環境やチュートリアル
 
 ### [VBScript](https://docs.microsoft.com/ja-jp/previous-versions/windows/scripting/cc392489(v=msdn.10))
 
+obj.open ==> obj.close  set obj = nothing
+
 ### [SQL Server](https://www.sqlshack.com/step-by-step-installation-of-sql-server-2017/)
